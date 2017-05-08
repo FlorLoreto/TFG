@@ -1,0 +1,6 @@
+Standard Template.
+
+If you create your first project, we recommend you start with the "Standard_With_Some_Data" template. 
+It is filled with dummy examples (activity 1, Work product 1...) that may help you to structure your process items and that can be removed later.
+
+Do not forget to add domains and disciplines if you have several processes you want to organize.

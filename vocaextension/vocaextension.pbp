@@ -1,0 +1,106 @@
+[APPLICATION_KIND]
+Lotus=no
+ProcessBuilder=yes
+
+[PROCESS_OPTION]
+GenerateProcessOverview=yes
+GenerateRole=yes
+GenerateWorkProduct=yes
+GenerateActivities=yes
+GenerateActivitiesByRoleByMA=yes
+GenerateTemplateAccessByMA=yes
+GenerateActivityAccessByStateByMA=false
+TemplatesIn2Languages=yes
+UseAlternativeLinks=yes
+GenerateGenericProcedure=yes
+GenerateHeader=yes
+SynthesisOnWPGroup=yes
+GenerateWPOverview=yes
+GenerateActivitySchemaFlag=yes
+GenerateWPNameOutsideWP=false
+TemplateActivity=Activity1.txt
+ActivityProcedureInSeparatedPage=yes
+GenerateMacroActivities=yes
+GenerateMeasure=yes
+GenerateRoleGroup=yes
+ActivityItemOrderDescription=2
+ActivityItemOrderTailoringGuideline=4
+ActivityItemOrderTemplate=3
+ActivityItemOrderSchema=1
+ActivityItemProcedure=5
+ViewChildrenWPInWPOverview=false
+GenerateActivitiesOnRoleGroup=false
+ShortcutButtonsInActivity=false
+StepTreeview=yes
+IncludeNoDomain=false
+GenerateWBSNumber=false
+View_WPO_Author=yes
+View_WPO_CMPolicy=false
+View_WPO_Location=false
+View_WPO_Naming_Rules=yes
+View_WPO_Timing=false
+View_WPO_Traceability=false
+AP_Desc=yes
+AP_IWP=yes
+AP_OWP=yes
+AP_Roles=yes
+AP_Steps=yes
+GP_Desc=yes
+MAP_Desc=yes
+WPP_Aut=yes
+WPP_Desc=yes
+RP_Desc=yes
+MAP_outWP=yes
+GenerateBanner=yes
+View_WPO_Recipient=false
+View_WPO_RewievedBy=false
+View_WPO_Sent=false
+View_WPO_ValidatedBy=false
+MAP_childrenActivities=false
+
+
+[PROCESSUS]
+PROJECTKINDS=
+ROLE_RESPONSIBILITY=Responsible,Accountable,Consulted,Informed,Initiating Participant(Choreography)
+LISTOFWPTYPE=Document,Document section,Source code,Build,Database,Data file,Data,Binary file,Equipment,Tool,Event,Standard process,Service
+WP_ROLE_RESPONSIBILITY=Author,Reviewed by,Validated by,Recipient,Sent for information
+
+[PWS]
+ROOT_NAME_FOR_HEADER=
+
+[CM]
+CM=no
+VssPath=c:\program files\microsoft visual studio\common\vss
+User=
+ProjectName=
+
+
+[STD_OPTION]
+UseStdTreeComponent=yes
+UseFrame=no
+TwoLanguages=false
+Charset=iso-8859-1
+MultiUsers=yes
+PageHeaderImage=yes
+Height=450
+Width=240
+IPFS=0
+TreeviewFontSize=11
+SiteName=vocaextension
+SiteNameL2=
+JavaScriptTreeview=yes
+AvailableLanguages=EN,FR
+GenerationLang=EN
+GenerationLang2=FR
+DataVersion=v2.8.0
+
+[VERSION]
+Internal=2
+
+[APPROVAL]
+appro1=Reviewer 1
+appro2=Reviewer 2
+appro3=Reviewer 3
+appro4=Reviewer 4
+appro5=Reviewer 5
+appro6=Reviewer 6

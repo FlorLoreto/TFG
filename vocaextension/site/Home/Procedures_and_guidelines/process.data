@@ -1,0 +1,5 @@
+[PROCESSUS]
+Class=GENERALPROCEDUREGROUP
+Frame=no
+AllProcedures=yes
+PageHeaderImage=ProceduresGroup.gif

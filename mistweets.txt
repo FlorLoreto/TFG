@@ -1,0 +1,434 @@
+n=0;;id=820403913023168512;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;https://t.co/oAeRe06FNg  Del futbol regional andaluz a la Copa de África https://t.co/dx2lJlHMJT #LomejorYahallegado https://t.co/JJ02xrj7re;;valoracion=2
+n=1;;id=820403913018970112;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;renace conmigo esta noche;;valoracion=0
+n=2;;id=820403912884817924;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;El #Ruido que hacen al subir o bajar cosas al sotano #EnElBarDeAlLado #Brunete #Insonorización… https://t.co/2GoVZptg0R;;valoracion=0
+n=3;;id=820403912855392258;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;@IdLikeADrink + atrevía a destaparse.-;;valoracion=0
+n=4;;id=820403912415072261;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;@danielo__88 y yo este mes que viene me pongo el dormitorio de matrimonio... No te quiero ni decir el dinero que me cuesta.;;valoracion=0
+n=5;;id=820403912301805568;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;—Pues también lanza pasteles https://t.co/iU6Ywva2GR;;valoracion=0
+n=6;;id=820403912222142464;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Me tengo que poner de parte de la vikingada. Pero cómo vas a DISFRUTAR de los goles de un señor que te gana Ligas, Copas, UCLs él solo?;;valoracion=0
+n=7;;id=820403911651692545;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Cuando un par de espectadores entraron al campo y golearon a Manchester United https://t.co/zwMQrHQN8H;;valoracion=0
+n=8;;id=820403911605493763;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Emilio Butragueño; líder de la 'Quinta del Buitre'; ganó 6 Ligas; 5 consecutivas entre 1986 y 1990 #RealMadrid https://t.co/73wTVl4JVu;;valoracion=0
+n=9;;id=820403911546834945;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;@doncasterhugs_ yo mucho ya lo sabes pero amas demasiado 🤔💁🏻;;valoracion=0
+n=10;;id=820403911538475009;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Somos aquello que decidimos ser cada vez que nos levantamos;;valoracion=0
+n=11;;id=820403911429386240;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;#EnElBarDeAlLado y en tu casa se comparte la misma pared sin #Insonorización #Ruido #Brunete #ContaminaciónAcústica #Decibelios;;valoracion=0
+n=12;;id=820403911097978880;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;MARAVILLA Los 20 escudos de fútbol más bonitos de todo el mundo https://t.co/nW3YWfr1bA #20m;;valoracion=0
+n=13;;id=820403911085486080;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Visto y oído a Rufián entrevista sosa. Me voy otra vez de la sexta noche. A Inda y a Marhuenda que se los quede Iñaki, que le gustan mucho;;valoracion=0
+n=14;;id=820403911051841536;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Estaba recogiendo cuentas del suelo y me he dado cuenta de que estaba colocándolas haciendo lo mismo que cuando me lío un porro de choco.;;valoracion=0
+n=15;;id=820403910900936704;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;La tarea de los padres es MÁS FÁCIL cuando estos entienden su propio temperamento y el de sus hijos. https://t.co/ESpGdB30jY;;valoracion=0
+n=16;;id=820403910867320835;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;2016.Nacido en Siria Premio Forqué al mejor documental. Merecidisimo y necesario más que nunca. #22forque;;valoracion=0
+n=17;;id=820403910821167104;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;#HoyFueNoticia Una salida poco probable https://t.co/dBxS2lyNCp https://t.co/quHpl8pzHA;;valoracion=0
+n=18;;id=820403910632493057;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;@DICmaskOne8 hermosa;;valoracion=0
+n=19;;id=820403910527643649;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Tener un despertador #EnElBarDeAlLado avisan siempre cuando levantarse #Brunete #Insonorización #Ruido #ContaminaciónAcústica;;valoracion=0
+n=20;;id=820403910376587265;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Un pequeño anticipo de nuestra entrevista de mañana. https://t.co/Aqm1GX1uE5;;valoracion=2
+n=21;;id=820403910233952257;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;No nos has vuelto a decir nada sobre la morena esa ... — jajajajajajaja ahí sigue  https://t.co/hHr36piF8P;;valoracion=0
+n=22;;id=820403910020124673;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;¡VERGÜENZA! https://t.co/ZVEIduf47t;;valoracion=0
+n=23;;id=820403909994905600;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Esta pasada madrugada nos dejaba la artista Rosario Blanco 'La Mahuma'. Nosotros preferimos recordarla así, bailand… https://t.co/zrEZbcPLHJ;;valoracion=0
+n=24;;id=820403909323726848;;Fecha=Sat Jan 14 22:55:09 +0000 2017;;Telefónica y el BID impulsan la digitalización de Latinoamérica https://t.co/wnS5BAbStd vía @ticbeat https://t.co/MZPIvRl3P9;;valoracion=2
+n=25;;id=820403909197971461;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;Nadie notaría mi ausencia, asique @beiitarr1997_;;valoracion=0
+n=26;;id=820403909177016320;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;Me ha gustado un vídeo de @YouTube (https://t.co/MDTRP0o3kV - QUÉ TAN FEMINISTA ERES según internet).;;valoracion=2
+n=27;;id=820403909055352832;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;| De todos los fcs que ha tenido Tinna, el que más le pega es Elsa y Gracie.;;valoracion=0
+n=28;;id=820403908984131584;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;1.- Que un espectador regale a Xoxé Tétano un adoquín del Pilar para que cante 'Hotel Rausán' con el caramelo en la boca. #gangliosfacts;;valoracion=0
+n=29;;id=820403908669538304;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@Moira_Thoriana De lejos me habías parecido tú;;valoracion=0
+n=30;;id=820403908631674880;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;El Celta hace oficial la cesión de David Costas al Oviedo https://t.co/uYhNQmrYu6 #deportes https://t.co/qDZ6A8afuX;;valoracion=2
+n=31;;id=820403908468244488;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;SÁBADO THEATRE  FIESTON  Lista  Javi Cardoso    12/2  + 🍸 CHICAS  Info y Reservas  615571987 https://t.co/NIs3WncC13;;valoracion=2
+n=32;;id=820403908392591360;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;#Coruña Garitano: «Me voy contento con el equipo, no con el resultado» https://t.co/Z2PG87ewWa https://t.co/WzaqvYWsoL;;valoracion=0
+n=33;;id=820403908195610624;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@blackletter98 @txarito27 El turbo y a toda pastilla...😂Vamos todos!;;valoracion=0
+n=34;;id=820403907989999616;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;El madridismo es esa afición que insulta a Raul o Casillas e idolatra a gente como Arbeloa o Mou,así se pueden entender muchas cosas...;;valoracion=0
+n=35;;id=820403907549597696;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;No entiendo a los que salís hoy de fiesta con lo agusto que se está en la cama con este frío!;;valoracion=0
+n=36;;id=820403907138441216;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;Telefónica y el BID impulsan la digitalización de Latinoamérica https://t.co/0lH2XJefyV https://t.co/1b8vyUQHoO;;valoracion=2
+n=37;;id=820403906996031491;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@Soni_bo Es uno de los "antiguos". Era un tuitero de culto, jajajajajaja;;valoracion=0
+n=38;;id=820403906911969281;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;¿Ya probaron nuestro volteado de Mango? https://t.co/AJUWZ3ZWbH;;valoracion=0
+n=39;;id=820403906819850242;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;El Real Zaragoza cae a falta de 12 minutos en Tenerife https://t.co/fYM9U4viBz;;valoracion=2
+n=40;;id=820403906450784256;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;Estoy viendo una película en Screener y no deja de enfocarse y desenfocar se la cámara... Maravilloso.;;valoracion=0
+n=41;;id=820403905775497216;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@pilaricasssss de momento no, parece plástico duro;;valoracion=0
+n=42;;id=820403905699966978;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@ocbista pasa mas por los partidos a domicilio... cada uno una trampa. En Pumarin pocas sorpresas.;;valoracion=0
+n=43;;id=820403905658048512;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@AThable tras ver tu comentario he ido corriendo a ver tus tuits esperando un dechado de inteligencia y vaya decepción Antonio, que desastre;;valoracion=0
+n=44;;id=820403905519566849;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@eLslogoPRO_16 hemos estdo jugando ya esta tarde con gente que se nos unia, ahora queremos ir a nuestra bola, lo siento 😣;;valoracion=0
+n=45;;id=820403905297285120;;Fecha=Sat Jan 14 22:55:08 +0000 2017;;@CarlosRyderBoy @FilosofoSupremo preferí el comeback de Mark Andrews antes que el Wolfgang Vs T-Bone xD;;valoracion=0
+n=46;;id=820403904588513280;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;@MorenodelMetal en Ripoll hace mucho frío, tápese bien que sino no podrá imitar :);;valoracion=0
+n=47;;id=820403904341037060;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;El martes vuelve el frío a Galicia y estos consejos podrían venirte bien para proteger tu piel https://t.co/4hM89KBMvK;;valoracion=0
+n=48;;id=820403904294846466;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;voluntarios para arrancarme los ovarios, gracias.;;valoracion=0
+n=49;;id=820403903950979074;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Panucci portó el dorsal 17 en las campañas 1996-97 y 1997-98. En la temporada 1998-99 heredó el 2 de Miguel Porlan… https://t.co/671gYmLGQe;;valoracion=2
+n=50;;id=820403903942524931;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;"El día que una azafata de Ryanair me abrazó" (y gratis!) Un texto íntimo en el que cuento... https://t.co/fWD1jyPhbb;;valoracion=0
+n=51;;id=820403903892176900;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;FORMACLICK_SL Gracias por seguirnos. Te recomiendo visites https://t.co/RB3xH01DJ3;;valoracion=2
+n=52;;id=820403903783112704;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Que sea delito esto tiene delito – https://t.co/l8djFLEXjq. Tu diario de izquierdas https://t.co/zAkUeEVOSk;;valoracion=0
+n=53;;id=820403903112036353;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Si es que son lo mejor que tengo joder #GraciasPorTodoJD;;valoracion=0
+n=54;;id=820403902843650048;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;@AndreaQoB bonito corazón 😁;;valoracion=0
+n=55;;id=820403902805786628;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Telefónica y el BID impulsan la digitalización de Latinoamérica https://t.co/vL7ej4jY6I https://t.co/QqXdcmx2gJ;;valoracion=2
+n=56;;id=820403902579408898;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;El PSOE denuncia que se han suprimido las subvenciones a las universidades relacionadas con la igualdad https://t.co/n2YZIWgHrW;;valoracion=2
+n=57;;id=820403902533238784;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Que hago contigo?😓;;valoracion=0
+n=58;;id=820403901522472961;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;@MrGozhen @aaronist78 Yo siempre te amé;;valoracion=0
+n=59;;id=820403901363089408;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;@JoseManueSrano FERNANDO TB? JAJAJAJAJ @FernandoLesPaul  reallly???!! Yo creo que se va a marcar un fernando y te va a dejar tirado jose xD;;valoracion=0
+n=60;;id=820403901358833665;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;Muchos inmigrantes que intentan entrar en Ceuta son refugiados de "conflictos olvidados en África". #TarajalC33;;valoracion=0
+n=61;;id=820403901212094464;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;El único error ha sido ir solo. Todas las parejitas saliendo queriéndose mucho y yo ahí... https://t.co/GeAfYIrIKi;;valoracion=0
+n=62;;id=820403901174312961;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;A veces las cosas más pequeñas son las que ocupan más espacio en tu corazón.;;valoracion=0
+n=63;;id=820403901132402692;;Fecha=Sat Jan 14 22:55:07 +0000 2017;;El whisky que revolucionó el mundo https://t.co/unetjrjeJ3 https://t.co/uB2UFsCDPr;;valoracion=0
+n=64;;id=820403900788285440;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;#Coruña Gael Kakuta llegará cedido al Deportivo hasta junio https://t.co/MP16hBWMQj https://t.co/FPVCLUqaZe;;valoracion=2
+n=65;;id=820403900729688064;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;el cerve tuits de calidad humor risas etc mas cosas;;valoracion=0
+n=66;;id=820403900494671872;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;@Denisaurio_Rex No has puesto nada, mema :(;;valoracion=0
+n=67;;id=820403900234788864;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Terror no lo sé, pero "Revival" me está maravillando y no he llegado ni sl 10% de la novela. Me encanta 🎪;;valoracion=0
+n=68;;id=820403900159291394;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Mi vida 🙄🤓 https://t.co/X2vxccL6lb;;valoracion=0
+n=69;;id=820403899681087493;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Monterias y ganchos #Jaén #caza https://t.co/0W3MSUOtqg https://t.co/bXMXy2sFKu;;valoracion=0
+n=70;;id=820403899320455169;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Apple y Google son las empresas más innovadoras del mundo  by zirigozacom https://t.co/heXEl9JQFv;;valoracion=2
+n=71;;id=820403899282706432;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Con la tontería... hoy acabo el segundo libro del año. Sólo un 17% más.;;valoracion=0
+n=72;;id=820403899089780740;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Tu piel morena de Viceversa sí que era un temazo y no los de ahora por favor;;valoracion=0
+n=73;;id=820403898271879168;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;OVERDRIVE - más de 30.000 bibliotecas en 40 países. https://t.co/me4SPl5qaN;;valoracion=2
+n=74;;id=820403897411899392;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Los 4 ejercicios que consiguen unos glúteos firmes en menos tiempo https://t.co/IAnPlGjRoJ https://t.co/py7naxxf87;;valoracion=2
+n=75;;id=820403897336471553;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;nunca me amaste como yo lo hacía;;valoracion=0
+n=76;;id=820403897294536704;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Palentinos, os dejamos con la portada de mañana. Buenas noches https://t.co/y2q7wqRuRf;;valoracion=0
+n=77;;id=820403897093279744;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;@qreninja me siento muchísimo mejor conmigo mismo.;;valoracion=0
+n=78;;id=820403896979980288;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;Gobierno y Casa Real rechazan pronunciarse sobre la crucifixión en Arabia Saudí de Ali-Nimr https://t.co/yOPFKBuuwI;;valoracion=2
+n=79;;id=820403896816386049;;Fecha=Sat Jan 14 22:55:06 +0000 2017;;@HayQueSaberlo @EstrellaSegado  Estrelli, por si acaso jajajjajajajajajaj &lt;3;;valoracion=0
+n=80;;id=820403896648667137;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;@albbacanedo en el mejor momento hermano;;valoracion=0
+n=81;;id=820403896262787072;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;¿Qué es la colada por vacío de plásticos? https://t.co/920cnSr6hN https://t.co/CQRdy7bzJW;;valoracion=0
+n=82;;id=820403895780384768;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;@PedroValhalla que no seas envidioso, nazi de mierda;;valoracion=1
+n=83;;id=820403894639529984;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;porque siempre está Cris en mi tl? xD;;valoracion=0
+n=84;;id=820403894488616961;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;como me cansa la pile, me dormiría ya mismo;;valoracion=0
+n=85;;id=820403894278848515;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;@Clan_Fraser // a mi me gusta la cuarta y no me preguntes él porque 😅😅;;valoracion=0
+n=86;;id=820403894043996160;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;The Guardian: Irán repuebla Siria con musulmanes chiíes para ayudar a reforzar el control del régimen  https://t.co/WI8y0rtsLe;;valoracion=2
+n=87;;id=820403893788147712;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;Pues las mías también 😍 Aunque cada día amo más a todas que no puedo decidir pero Momo y Yami siempre han sido las… https://t.co/YYgEG3FYrr;;valoracion=0
+n=88;;id=820403893762977792;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;#Fals 14/1/2017 23:55 h.= T: 2,1 C, Min: 0.7 C, Max: 9.3 C, Viento:0.0 O, Hum: 50%, Hpa: 1021,9, Lluvia:  0.0  #meteo #Bages #weathercloud;;valoracion=2
+n=89;;id=820403893301575680;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;@Paturim_ pobre ron cola.... :(;;valoracion=0
+n=90;;id=820403893146370049;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;SPORT.es - El Barça supera al Porto y le arrebata el liderato de grupo https://t.co/SHqI3ALH1m #PaginaNuova #Sports;;valoracion=2
+n=91;;id=820403893100224512;;Fecha=Sat Jan 14 22:55:05 +0000 2017;;Comandante de Tanque en #ARMA3 en directo esta noche https://t.co/mkXkwZ5bFx;;valoracion=2
+n=92;;id=820403892286537728;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Nubes e claros mañá pola á noite en Cartelle (Ourense) https://t.co/hBke4wSVVo #felizDomingo;;valoracion=2
+n=93;;id=820403892106260480;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Con que ganas voy a salir de fiesta cuando termine los examenes;;valoracion=0
+n=94;;id=820403891745550336;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Aprende a desarrollar webs muy complejas con un lenguaje muy sencillo ¿Cómo? Fácil, con nuestro curso de #Django. https://t.co/C6FMTiY318;;valoracion=2
+n=95;;id=820403891602882561;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@hecatxmbe No somos tristes, no usamos efectos;;valoracion=0
+n=96;;id=820403891460329477;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Mi primera foto con mi bebé 😍 https://t.co/R1JmCsAwCK;;valoracion=0
+n=97;;id=820403891078631424;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@MaraVM_ @Zafybb esas para @Car_Ada cuando amenezca mañana;;valoracion=0
+n=98;;id=820403890977968128;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@oscabasket de momento no habia recurrido a él, asique no lo sabía;;valoracion=0
+n=99;;id=820403890936053760;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Me descuido y mi gata tomando coca cola... Hasta donde fuimos a llegar.;;valoracion=0
+n=100;;id=820403890520752129;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;La la land....;;valoracion=0
+n=101;;id=820403890390700032;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@JigglyCaliente la puta reina 🌈💜 @AdriLobeiras;;valoracion=0
+n=102;;id=820403890017419265;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Libérese del cabello blanco y canas con sólo 1 ingrediente natural! funciona!  https://t.co/DjBP9H3dPd;;valoracion=2
+n=103;;id=820403889996500992;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@Harri_stiless enserio por dios nrcesito que vuelva ya;;valoracion=0
+n=104;;id=820403889895833601;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;SanMojito #drink #drinks #slurp #TagsForLikes #pub #bar #liquor #yum #yummy #thirst #thirsty… https://t.co/Tb2PHJSah3;;valoracion=0
+n=105;;id=820403888721428482;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;Usted, sin embargo, es tan guapo y apuesto que usa la foto de otra persona. #incesto #fumarenelembarazo #españa @Coronel_Blimp;;valoracion=0
+n=106;;id=820403888465518595;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;@Trastorista te acompaño;;valoracion=0
+n=107;;id=820403888385884160;;Fecha=Sat Jan 14 22:55:04 +0000 2017;;JAJAJAJA https://t.co/dbWAX2aJIc;;valoracion=0
+n=108;;id=820403888159342593;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@UnCiudadanoSP @emisampedro Siempre lo he dicho: necesitan que vengan de fuera a votarles porque con los de aquí ya no cuela.;;valoracion=0
+n=109;;id=820403888125779971;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@JoCar_Zgz yeaaah... XD espero primera contestación con tu nuevo #iphone;;valoracion=0
+n=110;;id=820403887899373568;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Buenas noches :);;valoracion=0
+n=111;;id=820403887865786372;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Mi novio es el mejor del mundo en serio,es genial y me hace sentir tanto.. Amar a alguien y que sea recíproco es tan bonito *Perdón x moñas*;;valoracion=0
+n=112;;id=820403887739899904;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@jssdxe Yo creo que es el hype y que todavía es muy pronto para encontrarle pegas a la primera película del año con las ganas que había.;;valoracion=0
+n=113;;id=820403887706427392;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Ayer me olvide de tantas cosas;;valoracion=0
+n=114;;id=820403887622549511;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@Squadpentertour porque to lo valgo;;valoracion=0
+n=115;;id=820403887546990593;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Como digo...Me estoy volviendo demasiado friki 😑;;valoracion=0
+n=116;;id=820403886125158401;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;"Ejerciendo de líder (2-2)". Nuestra CRÓNICA del @rccelta_oficial-@RealSporting de División de Honor Juvenil… https://t.co/1fhbQRHBkn;;valoracion=0
+n=117;;id=820403886079049737;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Macabo de donar conte que li vaig anviar algo q potse no li faria gracia😬;;valoracion=0
+n=118;;id=820403885433061376;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;¡Pero si es @Bribribliblii ! https://t.co/dujZAz0pu7;;valoracion=0
+n=119;;id=820403885428842496;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@BastanteMas Parece que la cota bien, no? Jejeje;;valoracion=0
+n=120;;id=820403885382762497;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@TheKubby De nada, le tengo mucha tirria a la gente de esa clase. xD;;valoracion=0
+n=121;;id=820403885290516481;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@Anfersantos Dañino para el @psoe es q  militantes tengan q exigir q se cumplan estatutos. ¿ Ruido? Ruido es dar golpe televisado.;;valoracion=0
+n=122;;id=820403885240152065;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;Camada de cerditos vietnamitas  #Álava #adopcion #mascotas https://t.co/VijFXV2fm8 https://t.co/MpzL12Fpgb;;valoracion=2
+n=123;;id=820403885223317505;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@_Nenuca te recomendamos @SandraCarrasc0!!! ;);;valoracion=0
+n=124;;id=820403884778725377;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;@julvez @adolfopanini  un placer recibiros en Zaragoza y en La Romareda amigos;;valoracion=0
+n=125;;id=820403884401295360;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;yo quiero tio https://t.co/lPITHtFIZW;;valoracion=0
+n=126;;id=820403884271271937;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;El Rialto acoge una muestra de teatro amateur sube a las tablas 'Joan Gabriel Borkman' de Ibsen… https://t.co/xOvmzgRUHy;;valoracion=2
+n=127;;id=820403884157976576;;Fecha=Sat Jan 14 22:55:03 +0000 2017;;40. Por mis abuelos daría la vida.;;valoracion=0
+n=128;;id=820403884053135361;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;-viste el anime que te recomendé?? es mi favorito! -sí, lo empecé pero no me llamó mucho la atención - https://t.co/wMf3NZ6iKD;;valoracion=0
+n=129;;id=820403883868557313;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@Elena_Remon claro que si guapi;;valoracion=0
+n=130;;id=820403883851780098;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Soltar en una carcajada todo el aire y después respirar.;;valoracion=0
+n=131;;id=820403883600216064;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@HeroOfTemp Aun así también prefiero usar el subjuntivo, que pa eso está;;valoracion=0
+n=132;;id=820403883495358465;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Me veré 2 capítulos más y terminare Teen Wolf;;valoracion=0
+n=133;;id=820403883423973377;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;mañana gasto las gemas en el lolai estoy de los nervioss;;valoracion=0
+n=134;;id=820403883180691456;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Van a echar el corredor del laberinto en 4 adivinad quién va a obligar a su madre a verla exacto yo;;valoracion=0
+n=135;;id=820403883092615169;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;El fracaso es parte de la vida; si no fracasas, no aprendes y si no aprendes, no cambias.;;valoracion=0
+n=136;;id=820403883075928066;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;las buenas referencias a grupos reales de música en Blue Exorcist &gt;&gt;&gt;&gt;&gt;&gt; https://t.co/BUbPPHtvva;;valoracion=2
+n=137;;id=820403882979426313;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@sr_woof @Fnac_Gamers en el GAME regalan una taza https://t.co/gk0pxTWiSI;;valoracion=0
+n=138;;id=820403882782322688;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;0-0. El Villarreal se conforma en Riazor y se aleja de la zona 'Champions' https://t.co/s7i1eR3I2p #transfermarkt #depor #villar #laliga;;valoracion=0
+n=139;;id=820403882778132480;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;sigo como en shock #GraciasPorTodoJD;;valoracion=0
+n=140;;id=820403882522185730;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@CarmenRevista @SitalmLucia_ @polypineda @amgmrz @Tess_ais @candela_mara @pe_casamayor Muchas gracias! Yo tb os quiero aunq entre poco😘😘❤️❤️;;valoracion=0
+n=141;;id=820403882278944768;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;El fútbol no hubiese sido lo mismo, sin Don Juan Carlos Valerón 💙 https://t.co/QxLfXCCf1W;;valoracion=0
+n=142;;id=820403882111238144;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;"Mi chuca revolucionaria." https://t.co/OmFEQCko1S;;valoracion=0
+n=143;;id=820403882044129281;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;si a veces no entiendo a Elettra ahora a Daniela tampoco,madre mia... pero aun asi las AMO!  #vipdirecto;;valoracion=0
+n=144;;id=820403881943375874;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Hoy he descubierto una cosa en la que no había caído nunca.;;valoracion=0
+n=145;;id=820403880970354689;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Los mejores recursos de la web: https://t.co/evsqCqqfzU;;valoracion=2
+n=146;;id=820403880802578433;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@ReventaeroSAO si quieres voy yo, pero solo juego en equipos masters o challengers, si no paso;;valoracion=0
+n=147;;id=820403880567697409;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;Me ha gustado un vídeo de @YouTube de @zzzzaur (https://t.co/jQwr4wv0Rj - Honey bees attack the fishing spider. Original HD video.).;;valoracion=2
+n=148;;id=820403880001474564;;Fecha=Sat Jan 14 22:55:02 +0000 2017;;@DVanessa1987 @Albineta @Raul91198 Las urnas nunca deberían dar miedo a un país que se le llena la boca cuando habla de democracia.;;valoracion=0
+n=149;;id=820403879594573827;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;@007Leva yo no lo vi y casi wue lo agradezco. Ya me fui bastante cabreada con el partido de mierda que se han cascado;;valoracion=0
+n=150;;id=820403879573655554;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Zaza retrasa su llegada pero el Valencia le espera en las próximas horas https://t.co/m2xvtUlyCE #transfermarkt #zaza #whufc #vcf;;valoracion=2
+n=151;;id=820403879359746049;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Os creéis normal que me he tenido que ir andando del trabajo hasta casa porque las calles estaban cortadas...Putas fiestas.;;valoracion=0
+n=152;;id=820403879238057984;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;@LeugimBL @Whitewidow Poner "falta de respeto" y "puta vida de payaso que llevas" en una misma frase es un poco contradictorio, no?;;valoracion=0
+n=153;;id=820403878818643969;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Señorío. https://t.co/E9MZZcqVND;;valoracion=0
+n=154;;id=820403878566985728;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;¿Sabéis que hay muchas cosas en el folklore polaco que parecen sacadas de la cabeza de Matisse?;;valoracion=0
+n=155;;id=820403878558597120;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;@alexneic @taekwoondulado un cor;;valoracion=0
+n=156;;id=820403877816238081;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;@JuanmaElric Me gustas igualmente, tonto ;) (Qué ficha suena esto);;valoracion=0
+n=157;;id=820403877719789568;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Final Fantasy XV es un juegazo que merece mucho la pena;;valoracion=0
+n=158;;id=820403877656850432;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Me ha gustado un vídeo de @YouTube de @h3h3productions (https://t.co/9tSTDwAaVA - My Thoughts On The Election).;;valoracion=2
+n=159;;id=820403877531058176;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Hoy ha sido un día maravilloso 😍;;valoracion=0
+n=160;;id=820403877258399747;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Camas y escritorios de cartón reciclado totalmente funcionales: https://t.co/uLb9ONpTnK #reciclaje #diseñosostenible;;valoracion=0
+n=161;;id=820403877195431936;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Me voy a hacer algo, buenas noches.;;valoracion=0
+n=162;;id=820403876985794562;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;11 hábitos de las personas con depresión encubierta: https://t.co/9RIYE7oecV;;valoracion=0
+n=163;;id=820403876968939520;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;La trama no se explica bien hasta los últimos tres episodios y eso hace que sea lenta, y los personajes no bastan para salvar esto.;;valoracion=0
+n=164;;id=820403876889137152;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;En Plocia, enplocia, me enplo. https://t.co/ZmrX4esXHO;;valoracion=0
+n=165;;id=820403876864126978;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;amor y dolor https://t.co/BUY7LuthZe;;valoracion=0
+n=166;;id=820403876444667904;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Yo en la vida:   https://t.co/KS17GJu3oX;;valoracion=0
+n=167;;id=820403876293738496;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Ras dlkelb jaa;;valoracion=0
+n=168;;id=820403876197187585;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;Lamentable mi sábado noche, totalmente.;;valoracion=0
+n=169;;id=820403876075634689;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;'Me paro en el arcén y disparo a las estrellas...';;valoracion=0
+n=170;;id=820403875970777093;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;@SrtaPasion Joder. ES GRAVE.;;valoracion=0
+n=171;;id=820403875966394368;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;#Lomásvisto Diez años de cárcel para la profesora que se quedó embarazada de un alumno &gt; https://t.co/ACgN9vo3mE https://t.co/BYEGeqcaVO;;valoracion=2
+n=172;;id=820403875861712898;;Fecha=Sat Jan 14 22:55:01 +0000 2017;;No vale y nadie debería hacer esto eso está muy mal ??!?!?!??!? No hagáis cosas así sin consentimiento o sea ?!?!+!… https://t.co/kXE1FvXYzQ;;valoracion=0
+n=173;;id=820403875203010560;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Vía Láctea, #fotografia de @edbecavin https://t.co/PUpuZvaOKM #photography https://t.co/Uk7bXwLXUx;;valoracion=0
+n=174;;id=820403875077353472;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;esto tiene que ser fake https://t.co/TxOPz1CqqH;;valoracion=0
+n=175;;id=820403874754424834;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;El argentino @manuginobili calentando para el #NBAMexico25 con el apoyo de jugadores de #AcademiaCONADE https://t.co/W4voCHSQR7;;valoracion=2
+n=176;;id=820403874750230528;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Sábado y estudiando https://t.co/sxyNz6oCEQ;;valoracion=0
+n=177;;id=820403874678927360;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;@josenez @elba296_ @MIC88491868  saris y turbantes setenteros. Pucci ibicenco. Bijoux a discreción.;;valoracion=0
+n=178;;id=820403874645282817;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;¿Quién para a estos #Falcons #RiseUp? Que barbaridad. Es una pasada #NFLPlayoffs #nflwildcard #NFLesp;;valoracion=0
+n=179;;id=820403874431401985;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;@MoonSun_moo @CornQueenXXI funcionar!;;valoracion=0
+n=180;;id=820403874364276736;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;RESULTADO DEL SORTEO | Acer Predator X34 34" LED Curvo: https://t.co/wQxe1qYoto via @YouTube;;valoracion=2
+n=181;;id=820403874225942530;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;MENUDO es mi padre #SeriesConHambre;;valoracion=0
+n=182;;id=820403874175520773;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;gracias simplemente gracias #GraciasPorTodoJD;;valoracion=0
+n=183;;id=820403874108469248;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;He he visto como medio segundo a Gina Carano en Fast and Furious y la he reconocido um creo que en Deadpool me marcó.;;valoracion=0
+n=184;;id=820403873135427584;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Tenía pensado hacer un directillo hoy pero me da a mi que no...;;valoracion=0
+n=185;;id=820403873030569985;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Me pregunto si Faverani va a mejorar a este Barça;;valoracion=0
+n=186;;id=820403872808235010;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Que por qué deberíais leeros el manga de One Punch Man https://t.co/Kce3xGOpqS;;valoracion=0
+n=187;;id=820403872581779456;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;@rachalbinov estilo?;;valoracion=0
+n=188;;id=820403872128712704;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;En la @SextaNocheTV  reciclan la basura y la convierten en un programa. #L6Nvertedero;;valoracion=0
+n=189;;id=820403872078397440;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;@Flan_DeHuevo aISH 💕💕💕 A MI TAMBIEN ME GUSTA HABLAR CONTIGO!!! (aunque me dé vergu por razones que desconozco);;valoracion=0
+n=190;;id=820403871675727873;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;@lydiiallorca55 jajaja vavava fue planazo en verdad;;valoracion=0
+n=191;;id=820403871675719680;;Fecha=Sat Jan 14 22:55:00 +0000 2017;;Por qué la división te parece una barbarie? si se s... — Y por qué piensas en separar y no en educar en los ... https://t.co/ltJdRomtKp;;valoracion=0
+n=192;;id=820403870149050368;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;Mismas mentiras, diferentes personas.;;valoracion=0
+n=193;;id=820403869930946560;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;@nocxntrolwt si alguien es tan amable de explicármelo por favor;;valoracion=0
+n=194;;id=820403869918367744;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;@fuckgravity según lo que creo haber visto, uno de los candidatos de este año ha publicado en twitter una foto de un pastel de &gt;&gt;&gt;;;valoracion=0
+n=195;;id=820403869448540160;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;Mejor largometraje documental español... "2016 Nacido en Siria". ¡Viva el #Cine comprometido! #22Forqué;;valoracion=0
+n=196;;id=820403869360553985;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;Super ya :))) https://t.co/xJsHKGxUvr;;valoracion=0
+n=197;;id=820403869205331968;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;Necesito abrazos algo de cariño...😕;;valoracion=0
+n=198;;id=820403868999753732;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;.@rosyten on #Periscope: Hola amigos💋🇻🇪🎶 https://t.co/kYZNArD9NP;;valoracion=0 
+n=199;;id=820403868991373312;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;@DecathlonES ¿AURICUL.ONEAR BLUETOOTH  sirven también para HABLAR por teléfono mientras uno corre/camina o sólo para escuchar música?Gracias;;valoracion=0
+n=200;;id=820403868974583808;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;@Caarlooota no creo, pero se quien lo va a ser loooool jajajak 😂😂😂👍👍👍🔝;;valoracion=0
+n=201;;id=820403867485700096;;Fecha=Sat Jan 14 22:54:59 +0000 2017;;Cuando te cuesta más entender una película española por la forma de hablar que cualquiera doblada.;;valoracion=0
+n=202;;id=820403867007545346;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;6. Alguna vez habéis follado con alguien que sólo conocías de Internet? (Tinder, Grindr y demás no cuenta);;valoracion=0
+n=203;;id=820403866252537861;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;Parece mentira que todavía queden seis meses para que vuelva #JuegoDeTronos 🤔;;valoracion=0
+n=204;;id=820403866042777603;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;Te juro que pensé que las iban a pillar,pero no :D;;valoracion=0
+n=205;;id=820403865463955461;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;El half que puedo ver SEA lo va perdiendo... Espero que ganen.;;valoracion=0
+n=206;;id=820403865124216833;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;@jolumetaguru te envío mucha luz y amor. Las ruinas son el camino a la tranformación.;;valoracion=0
+n=207;;id=820403864033693698;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;Mira que La La Land no me llama para nada, pero todo el mundo habla tan bien de ella...;;valoracion=0
+n=208;;id=820403863996035073;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;@gafitasazules ya lo han sido de siempre, y no intentemos convertir a los que ya lo son, que no ayuda, o al menos no mucho.;;valoracion=0
+n=209;;id=820403863983390721;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;@TeLeoDelReves pues tiene tanto éxito como cuando me plagian a mi.;;valoracion=0
+n=210;;id=820403863958257664;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;@yipikayjey Ahora a unas esencias que huelen a cedro y hay otras que huelen a incienso, es como los clásicos, le pones las que quieras...;;valoracion=0
+n=211;;id=820403863941513216;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;algún dorama recomendable?;;valoracion=0
+n=212;;id=820403863337529348;;Fecha=Sat Jan 14 22:54:58 +0000 2017;;"Deberías crear un podcast para que pueda darme de baja" - Bojack Horseman;;valoracion=0
+n=213;;id=820403861978542080;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Hoy un gilipollas que se hace llamar "jugador" ha insultado a mi afición y a la ADRV. Vete a tomar por culo… https://t.co/gZ5LEx2B0Y;;valoracion=0
+n=214;;id=820403861903077379;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@PERIPOX Entonces sigue nadando xD;;valoracion=0
+n=215;;id=820403861487816707;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Me ha gustado un vídeo de @YouTube (https://t.co/ow8jPNWz8s - Madonna - Frozen (Official Music Video)).;;valoracion=2
+n=216;;id=820403861152272388;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;"Busco relaciones esporádicas con mujeres  Hetero  1.70  Macho  Sólo mujeres  Heterazo  Heterosexual  Me gustan los coños  Alpinismo";;valoracion=0
+n=217;;id=820403861114548224;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;¡2017 también será el año de #Yuritopia! 🙌 https://t.co/0jCmf0eXZA;;valoracion=0
+n=218;;id=820403861106163713;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Europa alerta de que la tinta de los tatuajes podría ser cancerígena https://t.co/C6iqHY28h5 vía @theobjective_es;;valoracion=0
+n=219;;id=820403861089320960;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@Valdedrama Jajajajajajaja. La Friendzone es un gran lugar.;;valoracion=0
+n=220;;id=820403860841889798;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@themayanfactor Si, eso he leido Y si vosotros en Sevilla lo contais asi me lo creo Ramos se enciende cuando mentan a sus hijos el otro dia;;valoracion=0
+n=221;;id=820403860179185664;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Qué es lo que mas te gusta q te hagan en la cama? — Que no me quiten el edredón  https://t.co/1wBsyNDJic;;valoracion=0
+n=222;;id=820403859432570880;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@ldealista a qué sí??? Por eso mi mala leche... no tengo kebab!!! =P;;valoracion=0
+n=223;;id=820403859373916160;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@_Naranlowgh Graciaaas 😘😘😳;;valoracion=0
+n=224;;id=820403859268968448;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;@ZI_UR @Absolutexe @diazvillanueva @jmlopezzafra @cultrun Muchas gracias por sus bonitas palabras. Gran abrazo a todos.;;valoracion=0
+n=225;;id=820403859109609474;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Os confundís.Se juegan la vida lanzándose al mar para reconquistar Europa y jodernos la vida.Si es que nos obligan a ser racistas #tarajal33;;valoracion=1
+n=226;;id=820403859025723392;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Quería probar mi tolerancia de chocolate negro y madre mía qué bien huele la tableta. Quiero dormir abrazándola.;;valoracion=0
+n=227;;id=820403858983755776;;Fecha=Sat Jan 14 22:54:57 +0000 2017;;Impecable el drive de los @AtlantaFalcons , de su yarda 1 a la end zone en 3 min;;valoracion=0
+n=228;;id=820403858568609793;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Y gilipollas pue un rato tambien.;;valoracion=0
+n=229;;id=820403858551738369;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Illo yo de pequeño fui a Gandía. De pequeño...;;valoracion=0
+n=230;;id=820403857834512384;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@Javi_Quique_OK @Peru21pe @javierjuantur @El_consciente como puede ser tan... Sobran las palabras 😢;;valoracion=0
+n=231;;id=820403857822023681;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@dracopiper @Lanoviacadaver_ voy a buscarla. ¿Estará en Netflix?;;valoracion=0
+n=232;;id=820403857574522881;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;No servía pa esto;;valoracion=0
+n=233;;id=820403857377337344;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;... ES MÍO PERRA. https://t.co/2awnk8cM0N;;valoracion=0
+n=234;;id=820403857297641473;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@xWerlen No sentir atracción sexual q yo sepa pero puedes tener relaciones románticas  Tampoco sé mucho del tema pq no soy asexual pero +;;valoracion=0
+n=235;;id=820403857062821889;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;¡Ha sido una gala divertidísima dirigida magistralmente por @Carlos_Latre! ¡Mil gracias a todos por acompañarnos! ¡… https://t.co/22ipncGCKT;;valoracion=0
+n=236;;id=820403856500817922;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Entonces lo grabo yo, sin problema.;;valoracion=0
+n=237;;id=820403856223903744;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Manual sencillo para hacer un huerto urbano https://t.co/5Pu3fzmnTC;;valoracion=0
+n=238;;id=820403855498375168;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@etuborraes0 @chvrmandxr vale si no me gustan te los doy a ti pero seguro q me gustan;;valoracion=0
+n=239;;id=820403855301181440;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Hola! Soy Pitt! Mi anterior dueño se deshizo de mi sin más explicaciones, y ahora busco un hogar… https://t.co/QQrKzG6oYS;;valoracion=0
+n=240;;id=820403855296962560;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;esta mujer hace que recupere las ganas de vivir, por favor 😍 https://t.co/vptQzLzTBS;;valoracion=0
+n=241;;id=820403855250833408;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@anna_rossell @pilarcarracelas @lluisrimon Es bastante probable que tenga un seguro privado.;;valoracion=0
+n=242;;id=820403855095635969;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;vamos a curarnos de la musica emo esuchando cosas bonitas https://t.co/SkhHg72CqN;;valoracion=0
+n=243;;id=820403855045382147;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@lgerardo69 @ASMexico decir que Guardiola siempre cogio equipos armados es desconocer la realidad o obviarla que aún es peor.;;valoracion=0
+n=244;;id=820403854969831425;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;Me ha gustado un vídeo de @YouTube de @wismichu (https://t.co/jTeoGcV6Xm - Jugando a ser HACKERS con Jordi Wild).;;valoracion=2
+n=245;;id=820403854927863809;;Fecha=Sat Jan 14 22:54:56 +0000 2017;;@doctor_rojo Tú eres un pedófilo de esos no sé si quiero que nos veamos en febrero;;valoracion=0
+n=246;;id=820403854701371392;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;La verdad, soy muy rara.  Y la gente que me conoce lo sabe, y muy bien.;;valoracion=0
+n=247;;id=820403854684590081;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@ShaunElay que si quieres mientras tu me das la charla yo te doy simultáneamente una sobre electricidad xD;;valoracion=0
+n=248;;id=820403854659452929;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;Socio 😫 https://t.co/mAw743pB36;;valoracion=0
+n=249;;id=820403854562959361;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;A los 9 años o 10 https://t.co/RWKGv4qrpK;;valoracion=0
+n=250;;id=820403854403600385;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@_BloodErroR TAMPOCI ME HE SPOILEADO TANTO HAN SIDO SOLO 4 SEGJUDNDOS;;valoracion=0
+n=251;;id=820403853925322754;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@bonemtty [ #Gylvie]  Levanto una ceja sonriendo antes de levantarme de mi asiento y pararme frente a ella extendiendo (+);;valoracion=0
+n=252;;id=820403852788830208;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;Conduce o muere 😍😭😍😭😍😭;;valoracion=0
+n=253;;id=820403852755222530;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@Maryo30008 @andy97vlc Pero se les quiere;;valoracion=0
+n=254;;id=820403852746883075;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;Cazadora  chula diseñamos!! https://t.co/H5dB3rrGyz;;valoracion=0
+n=255;;id=820403851962580994;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@exotoubia la que se moriria soy yo;;valoracion=0
+n=256;;id=820403851538890753;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;Gabi: "Hemos conseguido marcar un gol muy pronto y hemos defendido bien. Ha sido un partido complicado pero el equipo ha estado bien".;;valoracion=0
+n=257;;id=820403851417288705;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@hishkatan Es uno de mis grandes deseos, poder hacer algún el viaje en el Transiberiano entre Moscú y Vladivostok. Me gusta Konchalovski.;;valoracion=0
+n=258;;id=820403851203317761;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@periquitoburlai si si pero es que han ido los 3 porteros;;valoracion=0
+n=259;;id=820403851006214144;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;@intomyperrie pues ven aqui): y en verano volvemos alli;;valoracion=0
+n=260;;id=820403850955866112;;Fecha=Sat Jan 14 22:54:55 +0000 2017;;Me como la coma orque me sale de la olla;;valoracion=0
+n=261;;id=820403850356150272;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Yo cuando estoy con la regla https://t.co/JvyVC9qIVI;;valoracion=0
+n=262;;id=820403850029002752;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;@barbiefobia @stavhaas @reflexindallas @Davgleek QUE ME MEOOOOOOOOOOOOOOOOOOOOO;;valoracion=0
+n=263;;id=820403849957699584;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;@ruestern Por eso digo, que igual soy yo simplemente.;;valoracion=0
+n=264;;id=820403849911484416;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Bueno, menos el @MdT_TVE... https://t.co/tkuAI1NwTl;;valoracion=0
+n=265;;id=820403848682553344;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Foxconn y sus beneficios disminuyen por culpa de las ventas del iPhone. https://t.co/DsZN1WP6DU https://t.co/Dks5fMJMat;;valoracion=0
+n=266;;id=820403848271503360;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Todo es de risa 😂😂;;valoracion=0
+n=267;;id=820403848191897602;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Ejército sirio abate al jefe de seguridad de Daesh en Homs - - https://t.co/S0LvNSvGjc https://t.co/XR7hXC6kzi;;valoracion=2
+n=268;;id=820403848040894465;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;@Onox792 Coño, BRUTAL;;valoracion=0
+n=269;;id=820403847977979904;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;para k kieres saber eso jaja saludos https://t.co/khYBRKz4f3;;valoracion=0
+n=270;;id=820403847881441280;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;no puedo con mi vida y estudiar me produce instintos de suicidio;;valoracion=0
+n=271;;id=820403847755599877;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;@mizumohno  y tu me has matado a mi con el post entero ;_; te odio mucho;;valoracion=0
+n=272;;id=820403847185231872;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Fotos @adn_zafra del partido de hoy del Juvenil A.  https://t.co/us4v3X3iFI https://t.co/yWfoB71zBz;;valoracion=0
+n=273;;id=820403846853836801;;Fecha=Sat Jan 14 22:54:54 +0000 2017;;Y como quiera? https://t.co/g9nuYfC6ni;;valoracion=0
+n=274;;id=820403845822038016;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;Porque se lo merece,es la mas guerrera de ahí y tiene que enseñarle a un montón de novatos,es humilde y siembre va… https://t.co/fejKlOxY7u;;valoracion=0
+n=275;;id=820403845528489984;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;@garrido0rtiz JAJAJAJA me cago en la puta, de Mister Jagger me vas a hablar...;;valoracion=0
+n=276;;id=820403845226491904;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;@mguasch10 gonorreas malparidos https://t.co/YLZMg2OUXF;;valoracion=0
+n=277;;id=820403845171920897;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;Me ha gustado un vídeo de @YouTube de @coldmanbeats (https://t.co/pXkdgH1sad - EAST COAST beat making #47 Hip Hop #beatsyoucantrust).;;valoracion=2
+n=278;;id=820403844140204032;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;No sé si me apetece más si un polvo o un cubata;;valoracion=0
+n=279;;id=820403844098179075;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;Soy la unica que cree que va a ser una peli de las de cgi del malo? En plan las de disney vaya (?) https://t.co/VPMH1mGj4d;;valoracion=0
+n=280;;id=820403843968155649;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;El que pierde paga!! Agüiiii!!!: https://t.co/KFznojaIeK via @YouTube;;valoracion=0
+n=281;;id=820403843460698113;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;No me creo que en pleno siglo XXI aun confundáis género con sexo, flipante en serio..;;valoracion=0
+n=282;;id=820403843225755648;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;ELETTRA DESPIERTAAAAAAAA #VIPDirecto;;valoracion=0
+n=283;;id=820403842214952960;;Fecha=Sat Jan 14 22:54:53 +0000 2017;;@Ladinszky Hombre, pues el mismo color de piel tenéis;;valoracion=0
+n=284;;id=820403841434787842;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;@Speedmaster72 @BlancaFernndez8 Y vosotros! ;) 0/;;valoracion=0
+n=285;;id=820403841195798528;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;@AlbatrosCalmao por algo les llaman aliados (?);;valoracion=0
+n=286;;id=820403840725975040;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;Buenas noches. https://t.co/HkUGlk3bx4;;valoracion=0
+n=287;;id=820403840684007426;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;Qué cucada por favor https://t.co/Cxi5CtcUpJ;;valoracion=0
+n=288;;id=820403840520486912;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;@edunardo69 obvio, es mío 💁;;valoracion=0
+n=289;;id=820403838947573761;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;Cada vez que hablamos con Alba @SaraPerezLrnzo https://t.co/fAOoHmhP8F;;valoracion=0
+n=290;;id=820403838402363395;;Fecha=Sat Jan 14 22:54:52 +0000 2017;;@thebestluluEUW a última.............;;valoracion=0
+n=291;;id=820403837945188352;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;A Milano. https://t.co/x2pYPW1a32;;valoracion=0
+n=292;;id=820403837777416192;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Xq este vacile, qué hago https://t.co/AmbRpxBuSX;;valoracion=0
+n=293;;id=820403837521510403;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;verles cantar canciones mas antiguas me ha hecho sentirme incluso mas orgullosa de ellos de lo que ya estaba;;valoracion=0
+n=294;;id=820403837395734529;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Hagamos esto realidad 💫;;valoracion=0
+n=295;;id=820403837341143040;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;@MlloretC com si tu tampoc ho estigueres;;valoracion=0
+n=296;;id=820403837186048000;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;@EskueroVGC Eso es canon desde hace muuuchos años, tío.;;valoracion=0
+n=297;;id=820403836909191169;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;@IdLikeADrink Quééé? -Se iba a morir allí mismo de la vergüenza.- Pues... Pues no... -Todavía no habían hecho esas cosas.- Seguro? -No se+;;valoracion=0
+n=298;;id=820403836389101568;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Supongo que lo mantengo para que no me vengan xq te has borrado whatsapp???!?!?! Te pasa algo?!?!€?'?#;;valoracion=0
+n=299;;id=820403836380741632;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;surbaibal jorror jorror es como pronuncias cabrón;;valoracion=0
+n=300;;id=820403835780874243;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Y #Falcons tendrà la posesión al volver del descanso 😬😬😬;;valoracion=0
+n=301;;id=820403835629924352;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Este trimestre me esperan unos examenes nivel... No sé, todas las recuperaciones de junio de la ESO juntas?;;valoracion=0
+n=302;;id=820403835629879296;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;Solo de rubén😍 https://t.co/eZuG3n4acS;;valoracion=0
+n=303;;id=820403834845593600;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;@AlxinhoJR az y'a dej 2 conv zetes chelou;;valoracion=0
+n=304;;id=820403834208079874;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;A Marisol le han cambiado hoy de registro y no le han hecho ningún favor...  #YoSoyDelSur;;valoracion=0
+n=305;;id=820403833927069696;;Fecha=Sat Jan 14 22:54:51 +0000 2017;;@Rubenibg eeeh... empiezo a ver el codigo verde... como Neo en matrix ;);;valoracion=0
+n=306;;id=820403833117478912;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;@NereaGarci97 por lo que se ve siii jajaj ya quea meno pa la feria de jerez niñaaaa jajajajaja;;valoracion=0
+n=307;;id=820403833075564544;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Lady Gaga tocando una pared pintada es mi nueva foto favorita del mundo https://t.co/U5N97WjTiv;;valoracion=0
+n=308;;id=820403832865832961;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;[ Más obsesionada que yo con esta mujeh no puedes estar, tranquila xd ];;valoracion=0
+n=309;;id=820403832836550656;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;INTERNACIONALES NO, INTERSECCIONALES. https://t.co/ZHgm7dab6y;;valoracion=0
+n=310;;id=820403832270323712;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;@vedicci si es encuesta abajo sí, que estoy vago;;valoracion=0
+n=311;;id=820403832190541825;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;#GraciasPorTodoJD no podéis simplemente decir todo eso y esperar a que yo me quedé tan tranquila;;valoracion=0
+n=312;;id=820403831636946945;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Acabo de descubrir que cuando se estrenó la primera de Mad Max, Mel Gibson tenía 23 años. Bernini ha muerto como referente para mí.;;valoracion=0
+n=313;;id=820403831418867712;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Me ha gustado un vídeo de @YouTube de @disneyjunioruk (https://t.co/jeYcglefSn - Mickey Mouse Clubhouse - Minnie's Pet Salon).;;valoracion=2
+n=314;;id=820403831376924672;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Me muero del aburrimiento;;valoracion=0
+n=315;;id=820403831163023361;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Hoy destaco por el buen partido que han hecho aparte de los ya habituales, a la triple A: Aleix Vidal André Gomes Arda Turan;;valoracion=0
+n=316;;id=820403831062274048;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;@jtejedornunez gracias! 😉;;valoracion=0
+n=317;;id=820403830307385344;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;Electricidad con sello sostenible https://t.co/KzfnI4tbH2;;valoracion=0
+n=318;;id=820403829703409664;;Fecha=Sat Jan 14 22:54:50 +0000 2017;;@tamaraxgc SIEMPRE LLEVAS RAZÓN;;valoracion=0
+n=319;;id=820403829330026496;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;es que incluso en la masturbación, donde nadie puede juzgarte, la gente no se aventura a descubrirse :(;;valoracion=0
+n=320;;id=820403829263003648;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;@phantasia_god No tengo hambre. Por favor déjeme ir a meditar.;;valoracion=0
+n=321;;id=820403829019656192;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Los "periodistas" y sus cosas,  nunca los entenderé;;valoracion=0
+n=322;;id=820403828931592194;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;La raya https://t.co/0wTqt9cJQi;;valoracion=0
+n=323;;id=820403828898103296;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Un sabado acostandome a las 12..pero es lo que toca hasta dentro de un mes. Currar 7 dias a la semana;;valoracion=0
+n=324;;id=820403828252168193;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;¿Cómo ha ido el día?;;valoracion=0
+n=325;;id=820403827010654208;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Acero y cristal #memorial11s #homenaje #recuerdo #museo https://t.co/GrnxVzj3jZ;;valoracion=0
+n=326;;id=820403826725359617;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Si, ya tal, y a otra cosa... https://t.co/RXqrbGWQkn;;valoracion=0
+n=327;;id=820403826616397825;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;SÁBADO THEATRE  FIESTON  Lista  Javi Cardoso    12/2  + 🍸 CHICAS  Info y Reservas  615571987 https://t.co/ki8em6Ss7s;;valoracion=2
+n=328;;id=820403826473701376;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Cásate con quién te quite la vibración del teclado del móvil después de haberlo intentado un puto mes sin éxito;;valoracion=0
+n=329;;id=820403826440175617;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Pero la verdad es que https://t.co/xLbMcqv1nQ;;valoracion=0
+n=330;;id=820403826234630144;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;@RaquelSerra23 Bienvenida! 😙😙😙👏👏👏🍀🍀🍀;;valoracion=0
+n=331;;id=820403826037583872;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;Y LeBlanc igual, pasar de 1/4 a 7/4 porque eres LeBlanc;;valoracion=0
+n=332;;id=820403825567825920;;Fecha=Sat Jan 14 22:54:49 +0000 2017;;@DaniVG96 no xd;;valoracion=0
+n=333;;id=820403825353822209;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;Siempre fue malo https://t.co/i3YEFaFNMw;;valoracion=0
+n=334;;id=820403825207103489;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;PUERRO JIMÉNEZ #SeriesConHambre;;valoracion=0
+n=335;;id=820403825181913089;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;@KiryuyoSatsunin Si yo tengo haters todo el mundo puede tenerlos tbh (?);;valoracion=0
+n=336;;id=820403824053587968;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;Que rica;;valoracion=0
+n=337;;id=820403823965564928;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;@1998Qui voy bro jajaja;;valoracion=0
+n=338;;id=820403823789346816;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;La mano de @_vickyreyes con las salsas es ideal para celebrar nuestro 8º aniversario ❤ @ Chamberí https://t.co/fYxjiSBWmE;;valoracion=0
+n=339;;id=820403823776776192;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;@Nora_barcelona @zorryyp gracias guapa! Una dotó preciosa;;valoracion=0
+n=340;;id=820403823307096064;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;Los Ganglios no han reventado Apolo como Dellafuente pero muy poco les ha faltado. Tres cosas que solo pueden ocurrir en un concierto suyo:;;valoracion=0
+n=341;;id=820403823009288193;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;@nonogracias bueno bueno ara me lo miro;;valoracion=0
+n=342;;id=820403822149431298;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;Dani comentándole a Jesús. ❤ https://t.co/huEX8s7xNa;;valoracion=0
+n=343;;id=820403821486739461;;Fecha=Sat Jan 14 22:54:48 +0000 2017;;@aLeeZyy_ yo te quiero sólo a ti;;valoracion=0
+n=344;;id=820403821054664705;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@maita_98 de ti? imposibol;;valoracion=0
+n=345;;id=820403820505210884;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@EmeSaiyan por favor la ultima foto es TOP jajajaja;;valoracion=0
+n=346;;id=820403820404547585;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Se parece al lema tuitero del filósofo @mtscano https://t.co/YBuW0tBpJQ;;valoracion=0
+n=347;;id=820403820362629126;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Me contradigo mucho a mi mismo, unlucky;;valoracion=0
+n=348;;id=820403820245250048;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@qreninja Yo me sentía así cuando comía carne. Y por eso me hice vegetariano. Y no te voy a negar que echo de menos ciertas cosas, pero +;;valoracion=0
+n=349;;id=820403820190633984;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Estoy llorando con el final 😭;;valoracion=0
+n=350;;id=820403820123619329;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Es que a mi me dice esas mierdas, no le saludo de vuelta y le pego una colleja al pasar. https://t.co/2cXH3r1Rlt;;valoracion=0
+n=351;;id=820403820115136517;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Ganas de llorar un poco 😭😭😭 @PabloDeTorresFM https://t.co/iRl927MnSD;;valoracion=0
+n=352;;id=820403819687329793;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@Berlustinho batalla perdida, Berlus... 8 años en Andalucia (Jerez y Puente Genil) y te acabas acostumbrando a "los dineros", "la dije", etc;;valoracion=0
+n=353;;id=820403819251175424;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;📻 @Tala_Radio: "El Atlético no ha conseguido todo lo que ha logrado con Simeone siendo resultadista"… https://t.co/YYuIJWwca9;;valoracion=0
+n=354;;id=820403819142123520;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;LIADOV The Enchanted Lake https://t.co/74pmnwdfik vía @YouTube;;valoracion=0
+n=355;;id=820403818894684160;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@GalloEtxeberria @AitorErre cuando cumplas 12 años volvemos a hablar.;;valoracion=0
+n=356;;id=820403818743627781;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Contadme algo que a este paso parto el sol de un cabezazo https://t.co/75MANVOQHl;;valoracion=0
+n=357;;id=820403818466869251;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;No sé si subir la foto que me borró instagram, es un desnudo con el pelo por delante y no sé si me vale la pena aunque la foto es bonita;;valoracion=0
+n=358;;id=820403818429083648;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@CronoESP a ud sin duda. Hagaselo ver;;valoracion=0
+n=359;;id=820403818370400258;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@aquarelable no se si es pregunta trampa;;valoracion=0
+n=360;;id=820403817929998336;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;SÁBADO THEATRE  FIESTON  Lista  Javi Cardoso    12/2  + 🍸 CHICAS  Info y Reservas  615571987 https://t.co/9K9yf86jIX;;valoracion=2
+n=361;;id=820403817770586112;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Retweeted Conecta13 (@Conecta13):  Instagram en el aula: más de 30 cuentas de interés para docentes y estudiantes... https://t.co/WSb71LsW0k;;valoracion=2
+n=362;;id=820403817753804802;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@MissNityaGif pero tu has visto esta mierda? Me da igual el precio joder https://t.co/s8ae2zvXSa me compraría 8 si pudiese;;valoracion=0
+n=363;;id=820403817237925888;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;@MoiCpos @joke_1945 de mi puño y letra;;valoracion=0
+n=364;;id=820403817187540992;;Fecha=Sat Jan 14 22:54:47 +0000 2017;;Que veas Skam @DiegoVR14   aviso 1;;valoracion=0
+n=365;;id=820403816906498049;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Matt Ryan ha conseguido salir de su yarda 1 para llegar a la endzone. 19-10 para los Falcons cerca del descanso.;;valoracion=0
+n=366;;id=820403816201932800;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Candela mi sobrina y ahijada mas hermosa;;valoracion=0
+n=367;;id=820403816138964993;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Mr siguen doliendo muchísimo los hombros desde esta mañana. Habré dormido en una mala postura.  Aunque no he dormido nada, así que ni idea.;;valoracion=0
+n=368;;id=820403816034140161;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;@piensayentrena @JorgeGarBas @provesfisiques Perpetuáis los mitos del gordo que lo es por su culpa, por glotón, perezoso y poco sacrificado;;valoracion=0
+n=369;;id=820403815308525568;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Como siga comiendo así no voy a caber la semana que viene en la falda;;valoracion=0
+n=370;;id=820403814079533056;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;@Vendrelll yo quiero probar aunque sean los karts un día :c;;valoracion=0
+n=371;;id=820403813626560512;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Excusas absurdas y cuentos mal estructurados. Eso es lo que les sobra.;;valoracion=0
+n=372;;id=820403813349781504;;Fecha=Sat Jan 14 22:54:46 +0000 2017;;Robert Wadlow fue el hombre más alto de ... https://t.co/mfb5IMmWyg #CURIOSIDADES;;valoracion=0
+n=373;;id=820403812766806016;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;@ostinus77 @salvameoficial De sentar cátedra sobre las APE pasarán a la termodinámica nuclear como si tal cosa...;;valoracion=0
+n=374;;id=820403812703801345;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;@KirliaShiny05 ah hostia,no me había dado cuenta xD.Puesss yo voto por charmander :v;;valoracion=0
+n=375;;id=820403812531924992;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;#Tarajal33 "hay que diferenciar entre refugiados e inmigrantes" en si no es lo mismo. Los 2 casos son personas que escapan de conflictos;;valoracion=0
+n=376;;id=820403812083073025;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Nunca el PSOE oficial ( #PPSOE ) va a estar de acuerdo con ninguna versión de Podemos https://t.co/Q7RGeLV0OF;;valoracion=0
+n=377;;id=820403812083048448;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Uf mira demasiadas cosas personales;;valoracion=0
+n=378;;id=820403811374297090;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Estoy super contento con el nuevo móvil. Me encanta;;valoracion=0
+n=379;;id=820403810447265792;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Parece que esta enfermo. Las votaciones del all star le están afectando. No le voteis más que se nos muere https://t.co/lVNWHMmeMQ;;valoracion=0
+n=380;;id=820403810246021121;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Simplemente gracias por aparecer en mi vida #GraciasPorTodoJD;;valoracion=0
+n=381;;id=820403810195689472;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Síndrome de Hubris: https://t.co/u5Hk2ik5OH;;valoracion=0
+n=382;;id=820403810191474689;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Pobre #bubu  Creo que odia a su dueña😂😂😂😂 #AmoresPerros8;;valoracion=0
+n=383;;id=820403809579134976;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Pestañas, esa parte del cuerpo que está para proteger el ojo, y el 99% de las veces, lo que se mete en el ojo, son pestañas.;;valoracion=0
+n=384;;id=820403809558130689;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;@anacatcosta logo vi https://t.co/ak9B1YgDAt;;valoracion=0
+n=385;;id=820403809298030592;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Liechtenstein no lo ha dicho, queda esperanza https://t.co/th08qmXSkN;;valoracion=0
+n=386;;id=820403809109340164;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;Ahora un ratito de mis series y 😴😴;;valoracion=0
+n=387;;id=820403808903761921;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;@Javierare_jr @aryadibravura Si en sinuchi era igual;;valoracion=0
+n=388;;id=820403808727683073;;Fecha=Sat Jan 14 22:54:45 +0000 2017;;@raulguru sería genial que salga la idea!;;valoracion=0
+n=389;;id=820403808626950144;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;Están de fiesta algunos ee;;valoracion=0
+n=390;;id=820403808555716609;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;toma xar ojalá te haga sentirte mejor https://t.co/kf716xwQW8;;valoracion=0
+n=391;;id=820403808287227904;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;haciendo reuniones cada 500 años o así XD;;valoracion=0
+n=392;;id=820403808090066944;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;@LowQuality67 primero me tengo que mirar el directo entero &gt;.&lt;;;valoracion=0
+n=393;;id=820403807523917824;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;El Halcón Galletero #SeriesConHambre;;valoracion=0
+n=394;;id=820403807133831170;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;Pero literal, que te mareas al verla.;;valoracion=0
+n=395;;id=820403806966050816;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;Pero seguiré viéndolo hasta ver la segunda temporada que dicen que le da mil vueltas 😍;;valoracion=0
+n=396;;id=820403805284106240;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;@_21MMY_ Cuando te los regalan no jeje. Aunque hoy no es el caso;;valoracion=0
+n=397;;id=820403805120503808;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;* La Administración no sólo tendrá que compensar a las concesionarias o sus acreedores por la inversión que... https://t.co/8QcSYsiw6N;;valoracion=0
+n=398;;id=820403804743094273;;Fecha=Sat Jan 14 22:54:44 +0000 2017;;Esta noche duermo con un bebé en casa... jaja dormir 😅;;valoracion=0
+n=399;;id=820403804369747968;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@miguirom00 @Manudehoyos Aprendi del mejor😘 https://t.co/OMSrF6eNWp;;valoracion=0
+n=400;;id=820403803417616384;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@HeroOfTemp Yo es que fuera de ese uso del pretérito pluscuamperfecto del subjuntivo no conozco ningún otro. Por eso no entiendo que exista;;valoracion=0
+n=401;;id=820403803258241024;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;Por cierto @meteoenrique está cayendo un chubasco ahora por el segundo Ensanche que es más nieve que agua;;valoracion=0
+n=402;;id=820403802868170752;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;La batalla final a base de escopetazos dentro de un avión lleno de coches. Esto lo he escrito yo.;;valoracion=0
+n=403;;id=820403802356510720;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@pesquera1993 @_ToweR92 @TasteYa25 @erguitarrita te doy las claves pa q to te encaje: no soy biri, ni antibetico, ni me cae mal el sporting.;;valoracion=0
+n=404;;id=820403801593151488;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@grautoff @yosoyelquesoy32 @lafm Vamos por esa Revocatoria... La caca la tienes en tu cabeza.;;valoracion=0
+n=405;;id=820403801421205505;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@Raurietto @Mew2Kairos_ Javier, evidentemente. O sea, Fermín.;;valoracion=0
+n=406;;id=820403801396023297;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;Yo cuando leo a trevijaners. https://t.co/V49vp8ihh6;;valoracion=0
+n=407;;id=820403801085579268;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@aquarelable te gust mi pueblo;;valoracion=0
+n=408;;id=820403800922030081;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@Jamesasecas_ JAJAJAJA grasias 😁;;valoracion=0
+n=409;;id=820403800712376322;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;@quintanillads Roberto no. Pero de vez en cuando muchos seguimos picando 😂😂;;valoracion=0
+n=410;;id=820403800255135745;;Fecha=Sat Jan 14 22:54:43 +0000 2017;;Pues nada, parece que la calefacción ha muerto, así que solo quería despedirme.;;valoracion=0
+n=411;;id=820403800141889536;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Mis ojos y mis manos https://t.co/1endv6GOpF;;valoracion=0
+n=412;;id=820403799915425795;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Que ganas de llorar jajajaj;;valoracion=0
+n=413;;id=820403799537942528;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Debes tener sida — Si quieres te doy un poco https://t.co/IbuTywmqVs;;valoracion=0
+n=414;;id=820403799135285248;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Si va a ninna.. https://t.co/o5a6lFZWgl;;valoracion=0
+n=415;;id=820403798971650048;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;@Metacida está viniendo;;valoracion=0
+n=416;;id=820403798854209536;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;@iCaraDeIevigne @1DLarryEsVida tu amiga roba tweets, nunca me voy a cansar de decirlo, penosa tu concha. besos fan, un gusto;;valoracion=0
+n=417;;id=820403798749356034;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;@SuperCallieFA  - Corro tras ella, buscándola y cuando la encuentro la doy en el pie. -;;valoracion=0
+n=418;;id=820403797788884993;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Si, fueron unos 5 minutos para ver que tanto le gustaba a la gente y que podía proporcionarme y no volví a jugarlo… https://t.co/vN46CFCoks;;valoracion=0
+n=419;;id=820403797319122948;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;@taekwoondulado merece mas;;valoracion=0
+n=420;;id=820403797205909504;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Nuevos seguidores: 1, unfollowers: 1 (23:54) #TuitUtil https://t.co/Lp2GqTeo4W;;valoracion=0
+n=421;;id=820403796840972288;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;🐢como buen matemático te diré que ∞^∞ que es igual a ∞ pero da igual que la hostia ❤️;;valoracion=0
+n=422;;id=820403796752863232;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Y mi beso de buenas noches?;;valoracion=0
+n=423;;id=820403796584984576;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Ramos y Carvajal se enfrentan con coraje a los ultras, no como Neymar que provoca y merecio ese botellazo de los valencianistas de bien.;;valoracion=0
+n=424;;id=820403796568379392;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;@Conurbanos @Arroban_FWTV See cagaaron a palo!  Debe ser de Córdoba, ese muchacho.;;valoracion=0
+n=425;;id=820403796375388161;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;La #custodiacompartida promueve......#EXISTEN https://t.co/lziNRFBj1J;;valoracion=0
+n=426;;id=820403796241162244;;Fecha=Sat Jan 14 22:54:42 +0000 2017;;Adorad al copazo https://t.co/y7L7gH6PtU;;valoracion=0
+n=427;;id=820403795226075137;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;Acabo de ver La Tortuga Roja y quiero el DVD YA.;;valoracion=0
+n=428;;id=820403795138068480;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;No me seas abuela y vámonos ya de fiesta.. a ver si cuela maertes @Annarayof;;valoracion=0
+n=429;;id=820403794919981056;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;@Desertsound Me habéis hecho recordar a gente que querría olvidar https://t.co/lnTu0nx7Ch;;valoracion=0
+n=430;;id=820403794760626177;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;fav y te mando por md lo que pienso de ti.;;valoracion=0
+n=431;;id=820403794509000704;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;Las fronteras no están en los países, sino en los límites de cada individuo. Yo no tengo límites, por eso no creo en fronteras.;;valoracion=0
+n=432;;id=820403794357977089;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;El PSOE denuncia que se han suprimido las subvenciones a las universidades relacionadas con la igualdad https://t.co/bR85VL0CWe;;valoracion=0
+n=433;;id=820403794248925185;;Fecha=Sat Jan 14 22:54:41 +0000 2017;;@shangay Ya lo he leído jaha.;;valoracion=0
