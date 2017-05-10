@@ -1,8 +1,0 @@
-<TABLE cellSpacing=0 cellPadding=0 width="100%" border=0>
-<TR><TD vAlign=top>
-<H4><a name=Purpose>Purpose</A> @TOP@ </H4>
-<BR>
-<H4><A name="Work Guidelines">Work Guidelines</A> @TOP@ </H4>
-<BR>
-</TD></TR></TABLE>
- 
